@@ -7,7 +7,9 @@ The goal is to analyze patterns using data from NHANES using R and interpret fin
 | File | Description |
 
 | 'final_dataset(in).csv' | Raw dataset used for the analysis (de-identified) |
+
 | 'ISYE 6414_Personal Analysis.R' | R script containing data cleaning, visualization, and statistical analysis |
+
 | 'ISYE 6414 Final Project.pdf' | Final analysis write-up, including findings and visualizations |
 
 # Instructions:
